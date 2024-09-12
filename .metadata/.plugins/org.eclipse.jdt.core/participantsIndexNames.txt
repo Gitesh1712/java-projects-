@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\Gitesh\eclipse-workspace\hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\692880671.index
-\expense_tracker\src\main\resources
-C:\Users\Gitesh\eclipse-workspace\hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4150007970.index
-\expense_tracker\src\main\java
-C:\Users\Gitesh\eclipse-workspace\hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2464641431.index
-\expense_tracker\src\main\java

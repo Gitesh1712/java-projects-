@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+C:\Users\Gitesh\eclipse-workspace\hibernate\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4101555203.index
-2282583092.index
-3015026939.index
-643428100.index
-93506556.index
-2506830475.index
